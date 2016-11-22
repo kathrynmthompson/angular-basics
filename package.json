@@ -1,0 +1,16 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[C\u001b[D\u001bsrc/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "mongoose": "4.6.8"
+  }
+}
