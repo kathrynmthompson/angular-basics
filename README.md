@@ -1,9 +1,10 @@
-# angular-basics
-The Angular Basics course is taught in workspaces.  This is the code for the final course app.
+This project is a simple to-do list app using the MEAN stack method. You can follow the directions in Treehouse in the Full Stack JavaScript track in the Building a MEAN Application tutorial.
 
 # set-up
 ```
 git clone <this-repo>
 cd <this-repo>
 http-server -p 3000
-# visit localhost:3000 to see the todoListApp
+use localhost:3000 to see the todoListApp
+
+For this project you will need to install Express, Angular, Mongoose and Node.js
